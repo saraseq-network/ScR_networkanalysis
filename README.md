@@ -12,7 +12,7 @@ If you use this repository in your work, please make sure to **cite it** appropr
 
 ```bibtex
 @misc{sequeira2025scrnetworkanalysis,
-  author       = {Sara Sequeira},
+  author       = {Sara C. Sequeira},
   title        = {ScR Network Analysis},
   year         = {2024},
   url          = {https://github.com/saraseq-network/ScR_networkanalysis},
