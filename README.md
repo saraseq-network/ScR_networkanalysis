@@ -14,7 +14,7 @@ If you use this repository in your work, please make sure to **cite it** appropr
 @misc{sequeira2025scrnetworkanalysis,
   author       = {Sara Sequeira},
   title        = {ScR Network Analysis},
-  year         = {2025},
+  year         = {2024},
   url          = {https://github.com/saraseq-network/ScR_networkanalysis},
-  note         = {Accessed: 2025-03-03},
+  note         = {Accessed: 2025-03-03}, #adapted to your date
 }
