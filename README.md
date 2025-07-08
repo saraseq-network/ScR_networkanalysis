@@ -1,6 +1,6 @@
 # ScR Network Analysis 📊🌍
 
-Welcome to **ScR Network Analysis**! This repository provides tools and methods for analyzing network structures in epidemiological models, particularly focusing on between-farm disease transmission.
+Welcome to **Scoping Review - Network Analysis**! This repository provides tools and methods for analyzing network structures in epidemiological models, particularly focusing on between-farm disease transmission.
 
 
 ## Citation 📝
