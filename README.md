@@ -2,9 +2,6 @@
 
 Welcome to **ScR Network Analysis**! This repository provides tools and methods for analyzing network structures in epidemiological models, particularly focusing on between-farm disease transmission.
 
-## Caution ⚠️
-
-Please be cautious when using the tools and data in this repository. Ensure that any results you generate are thoroughly validated before drawing conclusions or making decisions.
 
 ## Citation 📝
 
