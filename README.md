@@ -21,4 +21,4 @@ If you use this repository in your work, please make sure to **cite it** appropr
 
 **Sequeira SC**, et al (2025).
 A systematic scoping review and thematic analysis: How can livestock and poultry movement networks inform disease surveillance and control at the global scale?
-PLOS ONE. DOI:[10.1371/journal.pone.0328518]{https://doi.org/10.1371/journal.pone.0328518}
+PLOS ONE. DOI:(10.1371/journal.pone.0328518){https://doi.org/10.1371/journal.pone.0328518}
