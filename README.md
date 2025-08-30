@@ -15,3 +15,10 @@ If you use this repository in your work, please make sure to **cite it** appropr
   url          = {https://github.com/saraseq-network/ScR_networkanalysis},
   note         = {Accessed: 2025-03-03}, #adapted to your date
 }
+
+
+## For further background on the concepts and methods, see the related publication: ##
+
+**Sequeira SC**, et al (2025).
+A systematic scoping review and thematic analysis: How can livestock and poultry movement networks inform disease surveillance and control at the global scale?
+PLOS ONE, 20(7): e0328518. https://doi.org/10.1371/journal.pone.0328518
